@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.container{
+        margin: 5px;
+}
+.btn{
+    min-width: 75px;
+}
